@@ -1,0 +1,10 @@
+#{} estrutura de dados chamada dicionario, funciona para armazenar
+todas as informações importantes relacionados a algo, exemplo:
+{'nome': 'Praça', 'categoria': 'japonesa'} é CHAVE e VALOR, ou seja
+nome: descrição_do_nome_do_objeto
+---------------------------------------------------------------------
+O operador ternário em Python é uma forma condensada de escrever uma expressão condicional,
+também conhecida como operador condicional. Sua sintaxe é:
+
+valor_se_verdadeiro if condição else valor_se_falso
+---------------------------------------------------------------------
